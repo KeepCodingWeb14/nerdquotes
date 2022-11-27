@@ -100,6 +100,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Ni un día sin Blacknet
+
+*Heisemberg
+
+-------
+
 > Nunca mandes a un humano a hacer el trabajo de una máquina.
 
 *Agente Smith*
